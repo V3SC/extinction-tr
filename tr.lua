@@ -112,7 +112,7 @@ local my_language = {
     rename = "Yeniden adlandır",
     trade_with = "Takas",
 
-    please_wait_x_before = "~r~Lütfen bunu yapmadan önce %s saniye bekleyin.",
+    please_wait_x_before = "~r~Lütfen %s saniye bekleyin.",
 
     -- cloth
     take_outfit = "Bu kıyafeti satın al",
@@ -221,10 +221,10 @@ local my_language = {
     front_post_bc_2 = "Front post Blaine County 2",
     main_post_ls = "Safe City Los Santos",
     main_post_bc = "Safe City Blaine County",
-    random_zone = "Rastgele konum (paraşütle iniş)",
+    random_zone = "Rastgele Konum",
 
     this_item_is_equipped = "~r~Silah elinde, depolamak için kısayoldan kaldır.",
-    only_in_safezone = "~r~Bunu güvenli bölge dışında yapamazsın.",
+    only_in_safezone = "~r~Bunu sadece güvenli bölge de yapabilirsin.",
     -- commerce stuff
     feature_gold_only = "Bu özellik sadece ~y~gold üyeler~w~ içindir.",
     feature_diamond_only = "Bu özellik sadece ~b~diamond üyeler~w~ içindir.",
@@ -440,7 +440,7 @@ local my_language = {
     updated_deathmessage = "~g~Öldürme mesajını güncelledin.",
     updated_deatheffect = "~g~Öldürme efektini güncelledin.",
     use = "Kullan",
-    test = "Test et",
+    test = "Test",
 
     -- zombie
     you_bitten = "~r~Isırıldın.",
